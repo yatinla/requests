@@ -12,5 +12,6 @@ requests.egg-info/
 *.pyc
 *.swp
 env/
-
+*.gz
+*.tar
 .workon
